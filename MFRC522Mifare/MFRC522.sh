@@ -1,0 +1,1 @@
+git clone https://github.com/mxgxw/MFRC522-python.git

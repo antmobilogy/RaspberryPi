@@ -1,0 +1,11 @@
+﻿http://projects.schneidr.de/2013/05/mfrc522-and-arduino/
+
+http://www.grantgibson.co.uk/blog/2012/04/how-to-get-started-with-the-mifare-mf522-an-and-arduino/
+
+http://projects.schneidr.de/2013/05/mfrc522-and-arduino/
+
+http://www.electrodragon.com/w/index.php?title=RFID_Card_Reader/Detector_Module
+
+demo video here :
+
+  

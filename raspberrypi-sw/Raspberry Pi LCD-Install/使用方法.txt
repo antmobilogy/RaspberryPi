@@ -1,0 +1,59 @@
+Installation with LCD driver core 
+
+Here are using the latest version of the 2013-07-26-wheezy-raspbian.img 
+
+The written mirrored SD card reader connected to the computer 
+
+The SD card inside kernel.img backup copy 
+
+Copy the compressed package provides kernel version 20130726 kernel.img system applicable to sd card overwriting the original file 
+
+Raspberry Pi and a way to connect with LCD cable 
+
+Single row of holes cable end is connected LCD pin sticker outside the left side of the arrow indicates the alignment of the printed circuit board LCD "1" side of the words 
+Double-hole end of the connection Raspberry Pi GPIO pin stickers double arrow indicates the alignment of the left side of the printed circuit board Raspberry Pi marked "P1" side 
+
+When the need for horizontal cable insertion force uniform!!!!!!!!!!!!!!!!!!! 
+Never violent operation!!!!!!!!!!!!!! 
+Avoid damage to the pin!!!!!!!!!!!!! 
+
+Refer to the diagram to confirm the connection with the correct!!!!!!!!!!!!!! 
+Check the correct power on again!!!!!!!!!!!!!!!
+
+
+安装含LCD驱动内核方法
+
+这里使用的是最新版本的 2013-07-26-wheezy-raspbian.img
+
+把写好镜像的SD卡用读卡器连接到电脑上
+
+将SD卡里面的kernel.img复制一份备份
+
+把压缩包中提供的20130726版系统适用内核kernel.img复制到sd卡覆盖原文件
+
+用排线连接Raspberry Pi和 LCD的方法
+
+排线单排孔端连接LCD外侧排针  贴纸箭头指示左端一侧对准LCD电路板印刷 "1"字样一侧
+双排孔端连接Raspberry Pi GPIO 双排针 贴纸箭头指示左端一侧对准Raspberry Pi 电路板印刷 "P1"字样一侧
+
+插入排线时候需要水平均匀用力!!!!!!!!!!!!!!!!!!!  
+切勿暴力操作!!!!!!!!!!!!!!
+以免损坏排针!!!!!!!!!!!!!
+
+请参照配图确认连接正确!!!!!!!!!!!!!! 
+检查正确后再上电开机!!!!!!!!!!!!!!!
+
+
+
+
+附内核源代码打补丁添加显示屏驱动程序教程
+
+注意 该内核仅提供输出到LCD功能
+不支持hdmi和av视频端口输出
+
+
+附送编译好的驱动程序 支持Raspbian 3.10.25内核
+使用方法 替换现有内核 确认连接无误  开机屏幕信号都会显示到2.8寸TFT屏幕上
+需要说明的一点是 这个内核只开启了输出到微型显示器的功能 关闭了hdmi和av接口
+
+

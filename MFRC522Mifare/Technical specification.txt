@@ -1,0 +1,58 @@
+﻿ Technical specification
+
+    Module Name:MF522-ED
+    Working current：13—26mA/ DC 3.3V
+    Standby current：10-13mA/DC 3.3V
+    sleeping current：<80uA
+    peak current：<30mA
+    Working frequency：13.56MHz
+    Card reading distance ：0～60mm（mifare1 card）
+    Protocol：SPI
+    data communication speed：Maximum 10Mbit/s
+    Card types supported：mifare1 S50、mifare1 S70、mifare UltraLight、mifare Pro、mifare Desfire
+    Dimension：40mm×60mm
+    Environment
+    Working temperature：-20—80 degree
+    Storage temperature：-40—85 degree
+    Humidity：relevant humidity 5%—95%
+
+    
+1.The product model: MF522-AN
+
+ 
+
+
+2.Working current: 13-26 mA/dc 3.3 V
+
+
+3.Idle current: 10-13 mA/dc 3.3 V
+
+
+4.Dormancy current: < 80 uA
+
+
+5.Current peak: < 30 mA
+
+
+6.Working frequency: 13.56 MHz
+
+
+7.Reading card distance: 0 ~ 60 mm (mifare1 card)
+
+
+8.Interface: SPI
+
+
+9.Data transfer rate: the biggest 10 Mbit/s
+
+
+10.Support the card types: mifare1 S50, mifare1 S70, mifare UltraLight, mifare Pro, mifare Desfire
+
+
+11.Physical features: size: 40 mm x 60 mm
+
+
+12.Environment as follows:
+      Working temperature: 80 degrees Celsius-20-
+      Storage temperature: 85 degrees Celsius-40-
+      Humidity: 5% relative humidity, 95%
